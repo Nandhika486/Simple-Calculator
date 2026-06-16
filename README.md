@@ -1,2 +1,15 @@
-# Simple-Calculator
-A responsive calculator web application created with HTML, CSS, and JavaScript.
+# Calculator Website
+
+A simple calculator built using HTML, CSS, and JavaScript.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Responsive UI
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
